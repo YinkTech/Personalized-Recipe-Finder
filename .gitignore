@@ -2,6 +2,8 @@ node_modules/
 build/
 coverage/
 .env
+heelo.txt:1
+heelo.txt
 .env.*
 !.env.example
 .pnp
